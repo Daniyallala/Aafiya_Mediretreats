@@ -22,6 +22,7 @@
 ### Project Preview Link:
 https://daniyallala.github.io/Aafiya_Mediretreats/
 ### Project Screen Recording Link:
+https://www.awesomescreenshot.com/video/29469450?key=dc1f8f0f4317283c600ba39fdefd9062
 
 ### Project Screenshot:
 https://drive.google.com/file/d/1KuAyjxj5vyVgQZkeKzMqfWUQ71SOmN2g/view?usp=sharing
