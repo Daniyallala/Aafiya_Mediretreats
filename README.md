@@ -22,7 +22,7 @@
 ### Project Preview Link:
 https://daniyallala.github.io/Aafiya_Mediretreats/
 ### Project Screen Recording Link Desktop view:
-https://www.awesomescreenshot.com/video/29469450?key=dc1f8f0f4317283c600ba39fdefd9062
+https://drive.google.com/file/d/15fSqrSYTbOXSZOeziysf6O6blplefse4/view?usp=drive_link
 ## Project Screen Recording Link Of Mobile view:
 https://drive.google.com/file/d/1bId0XoU9HH9-2VT8fFg80YuYaI0vIRIX/view?usp=drivesdk
 ### Project Screenshot:
